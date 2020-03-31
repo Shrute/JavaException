@@ -1,4 +1,5 @@
 # JavaException
+#just an example for exception handling 
 class MyOwnException extends Exception {
    public MyOwnException(String msg){
       super(msg);
